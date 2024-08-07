@@ -22,7 +22,8 @@
         zoom = document.getElementById("zoom");
 
       function setTransform() {
-        zoom.style.transform = "translate(" + pointX + "px, " + pointY + "px) scale(" + scale + ")";
+        if(scale*zoom.clientHeight>=(window.innerHeight/1.5)) {zoom.style.transform = "translate(" + pointX + "px, " + pointY + "px) scale(" + scale + ")"}
+        if(scale*zoom.clientHeight<(window.innerHeight/1.5)) {scale=(window.innerHeight/1.5)/zoom.clientHeight}
       }
 
       zoom.onmousedown = function (e) {
