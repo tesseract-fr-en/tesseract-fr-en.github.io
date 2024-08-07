@@ -1,4 +1,4 @@
-var scale = 0.5,
+var scale = 1,
     panning = false,
     pointX = 0,
     pointY = 0,
