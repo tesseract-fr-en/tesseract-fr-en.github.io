@@ -12,12 +12,12 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
+    position: fixed;
 }
 
 /* Create a semi-transparent overlay */
 .overlay {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -28,7 +28,7 @@ body {
 
 /* Style the content that will sit above the overlay */
 .content {
-    position: relative;
+    position:fixed;
     z-index: 2;
     text-align: center;
     padding: 20px;
