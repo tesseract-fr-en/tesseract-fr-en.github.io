@@ -1,6 +1,7 @@
 /* Ensure the body and html take up the full viewport height */
 body, html {
     height: 100%;
+    width: 100%;
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
     color: white;
@@ -12,7 +13,8 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: fixed;
+    position: absolute;
+    display: grid;
 }
 
 /* Create a semi-transparent overlay */
@@ -33,18 +35,18 @@ body {
     text-align: center;
     padding: 20px;
     max-width: 600px;
-    margin: 0 auto;
+    text-align: center;
     padding-top: 100px; /* Adjust to move content down */
 }
 
 /* Style for the heading and paragraph */
 h1 {
-    font-size: 3em;
+    font-size: 3vmax;
     margin-bottom: 20px;
 }
 
 p {
-    font-size: 1.2em;
+    font-size: 1.2vmax;
     margin-bottom: 40px;
 }
 
@@ -63,7 +65,7 @@ button {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 0.8vmax;
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 8px;
@@ -72,4 +74,8 @@ button {
 
 button:hover {
     background-color: #45a049;
+}
+.container {
+    display: flex;
+    justify-content: center;
 }
