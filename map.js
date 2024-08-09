@@ -51,5 +51,8 @@ document.getElementById('toggleMetro').addEventListener('change', function () {
 document.getElementById('toggleArea').addEventListener('change', function () {
   document.getElementById('areaLayer').style.display = this.checked ? 'block' : 'none';
 });
+document.getElementById('toggleLabel').addEventListener('change', function () {
+  document.getElementById('labelLayer').style.display = this.checked ? 'block' : 'none';
+});
 
 // Add more event listeners for other checkboxes if needed
