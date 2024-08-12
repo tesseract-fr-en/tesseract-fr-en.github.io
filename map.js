@@ -54,5 +54,8 @@ document.getElementById('toggleArea').addEventListener('change', function () {
 document.getElementById('toggleLabel').addEventListener('change', function () {
   document.getElementById('labelLayer').style.display = this.checked ? 'block' : 'none';
 });
+document.getElementById('toggleFarming').addEventListener('change', function () {
+  document.getElementById('farmingLayer').style.display = this.checked ? 'block' : 'none';
+});
 
 // Add more event listeners for other checkboxes if needed
