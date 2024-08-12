@@ -57,7 +57,7 @@ p {
     gap: 20px;
 }
 
-button {
+button, a {
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
@@ -78,4 +78,7 @@ button:hover {
 .container {
     display: flex;
     justify-content: center;
+}
+.fake_button {
+    padding: 0px 0px;
 }
