@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 300 300" fill="#fff">
+<!--Define the striped pattern-->
+  <defs>
+    <pattern id="stripes" patternUnits="userSpaceOnUse" width="225" height="300">
+<!--First stripe-->
+      <rect width="60" height="800" x="0" fill="#9CDBA6"/>
+<!--Second stripe-->
+      <rect width="60" height="800" x="57" fill="#DEF9C4"/>
+<!--Third stripe-->
+      <rect width="55" height="800" x="112" fill="#468585"/>
+<!--Fourth stripe-->
+      <rect width="60" height="800" x="167" fill="#50B498"/>
+    </pattern>
+  </defs>
+<!--Transform to center the shape and maintain aspect ratio-->
+  <g transform="translate(-75,0)">
+    <path d="M0 0h450v300H0z" fill="#141414"/>
+    <path d="M225 37.5l-56.25 209.928L322.428 93.75 112.5 150l209.928 56.25L168.75 52.572 225 262.5l56.25-209.928L127.572 206.25 337.5 150 127.572 93.75 281.25 247.428 225 37.5" fill="url(#stripes)"/>
+    <circle cx="225" cy="150" r="60" stroke="#141414" stroke-width="7.5" fill="url(#stripes)"/>
+  </g>
+</svg>

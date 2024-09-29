@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <!-- Background colors -->
+  <rect width="1200" height="800" fill="#141414" />
+  <rect x="800" width="100" height="800" fill="#522258" />
+  <rect x="900" width="100" height="800" fill="#8C3061" />
+  <rect x="1000" width="100" height="800" fill="#C63C51" />
+  <rect x="1100" width="100" height="800" fill="#D95F59" />
+  
+  <!-- Star with circle -->
+  <g transform="scale(2.67) translate(-75,0)">
+    <path d="M225 37.5l-56.25 209.928L322.428 93.75 112.5 150l209.928 56.25L168.75 52.572 225 262.5l56.25-209.928L127.572 206.25 337.5 150 127.572 93.75 281.25 247.428 225 37.5" fill="white"/>
+    <circle cx="225" cy="150" r="60" stroke="#141414" stroke-width="7.5" fill="white"/>
+  </g>
+</svg>
