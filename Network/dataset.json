@@ -35,7 +35,7 @@
             "label": "acacia leaves",
             "tag": "acacia_leaves",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": 252.3445587158203,
             "y": 119.08149719238281,
             "score": 0.000821351735547873
@@ -45,7 +45,7 @@
             "label": "acacia log",
             "tag": "acacia_log",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": -150.4423828125,
             "y": 410.830322265625,
             "score": 0.004928110413287239
@@ -105,7 +105,7 @@
             "label": "iron ingot",
             "tag": "iron_ingot",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": -325.14874267578125,
             "y": 141.23960876464844,
             "score": 0.02464055206643619
@@ -135,7 +135,7 @@
             "label": "electron tube",
             "tag": "electron_tube",
             "URL": "",
-            "cluster": "Create Materials",
+            "cluster": "Farms",
             "x": -492.53973388671875,
             "y": 154.3763885498047,
             "score": 0.01642703471095746
@@ -155,7 +155,7 @@
             "label": "andesite alloy",
             "tag": "andesite_alloy",
             "URL": "",
-            "cluster": "Create Materials",
+            "cluster": "Farms",
             "x": -260.5203857421875,
             "y": 250.8852081298828,
             "score": 0.037782179835202157
@@ -225,7 +225,7 @@
             "label": "diorite",
             "tag": "diorite",
             "URL": "",
-            "cluster": "Stones",
+            "cluster": "Farms",
             "x": -608.9502563476562,
             "y": -319.25543212890625,
             "score": 0.006570813884382984
@@ -235,7 +235,7 @@
             "label": "andesite",
             "tag": "andesite",
             "URL": "",
-            "cluster": "Stones",
+            "cluster": "Farms",
             "x": -563.9548950195312,
             "y": 35.68528366088867,
             "score": 0.01067757256212235
@@ -485,7 +485,7 @@
             "label": "iron block",
             "tag": "iron_block",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": -232.0920867919922,
             "y": 314.26617431640625,
             "score": 0.005749462148835111
@@ -545,7 +545,7 @@
             "label": "wheat",
             "tag": "wheat",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 567.0943603515625,
             "y": 331.5106506347656,
             "score": 0.00821351735547873
@@ -695,7 +695,7 @@
             "label": "cabbage",
             "tag": "cabbage",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 670.3373413085938,
             "y": 94.05184936523438,
             "score": 0.013141627768765969
@@ -705,7 +705,7 @@
             "label": "tomato",
             "tag": "tomato",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 671.6563720703125,
             "y": -29.715837478637695,
             "score": 0.009856220826574478
@@ -725,7 +725,7 @@
             "label": "cod",
             "tag": "cod",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 779.7217407226562,
             "y": -8.423273086547852,
             "score": 0.003285406942191492
@@ -735,7 +735,7 @@
             "label": "potato",
             "tag": "potato",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 780.8865966796875,
             "y": 144.3269805908203,
             "score": 0.004928110413287239
@@ -765,7 +765,7 @@
             "label": "baked potato",
             "tag": "baked_potato",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 775.3571166992188,
             "y": 159.8314208984375,
             "score": 0.004106758677739365
@@ -775,7 +775,7 @@
             "label": "bamboo",
             "tag": "bamboo",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": 324.67236328125,
             "y": 344.2014465332031,
             "score": 0.003285406942191492
@@ -795,7 +795,7 @@
             "label": "onion",
             "tag": "onion",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 704.3089599609375,
             "y": 59.82952880859375,
             "score": 0.012320276033218095
@@ -895,7 +895,7 @@
             "label": "basalt",
             "tag": "basalt",
             "URL": "",
-            "cluster": "Stones",
+            "cluster": "Farms",
             "x": 959.55517578125,
             "y": -266.8691101074219,
             "score": 0.0
@@ -945,7 +945,7 @@
             "label": "beef",
             "tag": "beef",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 842.7213745117188,
             "y": 123.25801086425781,
             "score": 0.001642703471095746
@@ -955,7 +955,7 @@
             "label": "carrot",
             "tag": "carrot",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 634.8931884765625,
             "y": 156.26382446289062,
             "score": 0.009034869091026604
@@ -975,7 +975,7 @@
             "label": "beetroot",
             "tag": "beetroot",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 592.4744262695312,
             "y": 22.840803146362305,
             "score": 0.00821351735547873
@@ -1035,7 +1035,7 @@
             "label": "honeycomb",
             "tag": "honeycomb",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": -131.82810974121094,
             "y": -78.02574157714844,
             "score": 0.005749462148835111
@@ -1115,7 +1115,7 @@
             "label": "birch leaves",
             "tag": "birch_leaves",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": 457.1589660644531,
             "y": 896.5635375976562,
             "score": 0.0
@@ -1125,7 +1125,7 @@
             "label": "birch log",
             "tag": "birch_log",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": 175.26341247558594,
             "y": 762.3397827148438,
             "score": 0.001642703471095746
@@ -1165,7 +1165,7 @@
             "label": "blackstone",
             "tag": "blackstone",
             "URL": "",
-            "cluster": "Stones",
+            "cluster": "Farms",
             "x": -758.5558471679688,
             "y": -270.23114013671875,
             "score": 0.0024640552066436195
@@ -1175,7 +1175,7 @@
             "label": "bone meal",
             "tag": "bone_meal",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": 80.56309509277344,
             "y": -176.0721893310547,
             "score": 0.003285406942191492
@@ -1185,7 +1185,7 @@
             "label": "gunpowder",
             "tag": "gunpowder",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": -235.98736572265625,
             "y": -9.778732299804688,
             "score": 0.004928110413287239
@@ -1235,7 +1235,7 @@
             "label": "black dye",
             "tag": "black_dye",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 73.98030090332031,
             "y": -385.8538818359375,
             "score": 0.013141627768765969
@@ -1245,7 +1245,7 @@
             "label": "ink sac",
             "tag": "ink_sac",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 277.36004638671875,
             "y": -124.23767852783203,
             "score": 0.004106758677739365
@@ -1305,7 +1305,7 @@
             "label": "glass",
             "tag": "glass",
             "URL": "",
-            "cluster": "Glass",
+            "cluster": "Farms",
             "x": 189.61453247070312,
             "y": -207.46926879882812,
             "score": 0.019712441653148956
@@ -1375,7 +1375,7 @@
             "label": "blaze rod",
             "tag": "blaze_rod",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": 169.59393310546875,
             "y": -633.2789916992188,
             "score": 0.029568662479723427
@@ -1385,7 +1385,7 @@
             "label": "blaze powder",
             "tag": "blaze_powder",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": -7.431553840637207,
             "y": -528.1949462890625,
             "score": 0.001642703471095746
@@ -1405,7 +1405,7 @@
             "label": "brick",
             "tag": "brick",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": -422.4178466796875,
             "y": -597.2459716796875,
             "score": 0.012320276033218095
@@ -1485,7 +1485,7 @@
             "label": "blue dye",
             "tag": "blue_dye",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 165.20713806152344,
             "y": -441.30352783203125,
             "score": 0.011498924297670222
@@ -1555,7 +1555,7 @@
             "label": "bone",
             "tag": "bone",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": 420.5768127441406,
             "y": -116.5831527709961,
             "score": 0.001642703471095746
@@ -1625,7 +1625,7 @@
             "label": "brass ingot",
             "tag": "brass_ingot",
             "URL": "",
-            "cluster": "Create Materials",
+            "cluster": "Farms",
             "x": -59.808109283447266,
             "y": -332.14111328125,
             "score": 0.03121136595081917
@@ -1755,7 +1755,7 @@
             "label": "copper ingot",
             "tag": "copper_ingot",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": -410.5323181152344,
             "y": -63.97349166870117,
             "score": 0.019712441653148956
@@ -1765,7 +1765,7 @@
             "label": "zinc ingot",
             "tag": "zinc_ingot",
             "URL": "",
-            "cluster": "Create Materials",
+            "cluster": "Farms",
             "x": -375.93389892578125,
             "y": -301.8227844238281,
             "score": 0.01642703471095746
@@ -1885,7 +1885,7 @@
             "label": "clay ball",
             "tag": "clay_ball",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": -199.55831909179688,
             "y": -620.6605834960938,
             "score": 0.001642703471095746
@@ -1935,7 +1935,7 @@
             "label": "brown dye",
             "tag": "brown_dye",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 374.33001708984375,
             "y": -259.0881042480469,
             "score": 0.007392165619930857
@@ -1945,7 +1945,7 @@
             "label": "cocoa beans",
             "tag": "cocoa_beans",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": 512.8622436523438,
             "y": 171.1803741455078,
             "score": 0.003285406942191492
@@ -1985,7 +1985,7 @@
             "label": "brown mushroom",
             "tag": "brown_mushroom",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 713.7072143554688,
             "y": 255.2201385498047,
             "score": 0.004106758677739365
@@ -2215,7 +2215,7 @@
             "label": "straw",
             "tag": "straw",
             "URL": "",
-            "cluster": "Create Addition",
+            "cluster": "Farms",
             "x": 458.46954345703125,
             "y": 491.1177978515625,
             "score": 0.007392165619930857
@@ -2275,7 +2275,7 @@
             "label": "redstone",
             "tag": "redstone",
             "URL": "",
-            "cluster": "Redstone",
+            "cluster": "Farms",
             "x": -516.558837890625,
             "y": 61.6810188293457,
             "score": 0.0213551451242447
@@ -2325,7 +2325,7 @@
             "label": "cherry leaves",
             "tag": "cherry_leaves",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": 512.0785522460938,
             "y": 853.9219360351562,
             "score": 0.0
@@ -2335,7 +2335,7 @@
             "label": "cherry log",
             "tag": "cherry_log",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": 257.4152526855469,
             "y": 790.7573852539062,
             "score": 0.001642703471095746
@@ -2345,7 +2345,7 @@
             "label": "cooked chicken",
             "tag": "cooked_chicken",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 742.9092407226562,
             "y": 56.060787200927734,
             "score": 0.003285406942191492
@@ -2365,7 +2365,7 @@
             "label": "chicken",
             "tag": "chicken",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 689.6356201171875,
             "y": 42.545597076416016,
             "score": 0.0024640552066436195
@@ -2405,7 +2405,7 @@
             "label": "sweet berries",
             "tag": "sweet_berries",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 748.4431762695312,
             "y": 340.33612060546875,
             "score": 0.004106758677739365
@@ -2465,7 +2465,7 @@
             "label": "clay",
             "tag": "clay",
             "URL": "",
-            "cluster": "Building Blocks",
+            "cluster": "Farms",
             "x": 34.09439468383789,
             "y": -592.542724609375,
             "score": 0.001642703471095746
@@ -2555,7 +2555,7 @@
             "label": "dirt",
             "tag": "dirt",
             "URL": "",
-            "cluster": "Dirts",
+            "cluster": "Farms",
             "x": 604.40869140625,
             "y": 653.4727783203125,
             "score": 0.003285406942191492
@@ -2665,7 +2665,7 @@
             "label": "stone",
             "tag": "stone",
             "URL": "",
-            "cluster": "Stones",
+            "cluster": "Farms",
             "x": -693.9647216796875,
             "y": -190.98611450195312,
             "score": 0.004928110413287239
@@ -2755,7 +2755,7 @@
             "label": "cobblestone",
             "tag": "cobblestone",
             "URL": "",
-            "cluster": "Stones",
+            "cluster": "Farms",
             "x": -556.1970825195312,
             "y": -170.98912048339844,
             "score": 0.009034869091026604
@@ -2805,7 +2805,7 @@
             "label": "gold ingot",
             "tag": "gold_ingot",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": -247.0926513671875,
             "y": -108.96452331542969,
             "score": 0.01067757256212235
@@ -2825,7 +2825,7 @@
             "label": "quartz",
             "tag": "quartz",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": -560.0818481445312,
             "y": -358.3178405761719,
             "score": 0.009034869091026604
@@ -2955,7 +2955,7 @@
             "label": "precision mechanism",
             "tag": "precision_mechanism",
             "URL": "",
-            "cluster": "Create Materials",
+            "cluster": "Farms",
             "x": -514.0935668945312,
             "y": 385.63116455078125,
             "score": 0.005749462148835111
@@ -2975,7 +2975,7 @@
             "label": "cooked beef",
             "tag": "cooked_beef",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 853.136962890625,
             "y": 118.01154327392578,
             "score": 0.001642703471095746
@@ -3005,7 +3005,7 @@
             "label": "cooked cod",
             "tag": "cooked_cod",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 872.6068725585938,
             "y": -12.931595802307129,
             "score": 0.001642703471095746
@@ -3025,7 +3025,7 @@
             "label": "mutton",
             "tag": "mutton",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 836.9114990234375,
             "y": 27.683408737182617,
             "score": 0.0024640552066436195
@@ -3035,7 +3035,7 @@
             "label": "cooked mutton",
             "tag": "cooked_mutton",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 798.6029663085938,
             "y": 78.18522644042969,
             "score": 0.0024640552066436195
@@ -3045,7 +3045,7 @@
             "label": "porkchop",
             "tag": "porkchop",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 882.3966674804688,
             "y": 428.7144775390625,
             "score": 0.000821351735547873
@@ -3065,7 +3065,7 @@
             "label": "cooked porkchop",
             "tag": "cooked_porkchop",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 872.1950073242188,
             "y": 413.82342529296875,
             "score": 0.001642703471095746
@@ -3075,7 +3075,7 @@
             "label": "rabbit",
             "tag": "rabbit",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 657.2989501953125,
             "y": 758.4443969726562,
             "score": 0.000821351735547873
@@ -3085,7 +3085,7 @@
             "label": "cooked rabbit",
             "tag": "cooked_rabbit",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 662.3614501953125,
             "y": 754.7374877929688,
             "score": 0.000821351735547873
@@ -3095,7 +3095,7 @@
             "label": "rice",
             "tag": "rice",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 684.7424926757812,
             "y": 301.3375549316406,
             "score": 0.006570813884382984
@@ -3105,7 +3105,7 @@
             "label": "salmon",
             "tag": "salmon",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 907.5506591796875,
             "y": 247.33306884765625,
             "score": 0.000821351735547873
@@ -3115,7 +3115,7 @@
             "label": "cooked salmon",
             "tag": "cooked_salmon",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 884.1734008789062,
             "y": 230.93670654296875,
             "score": 0.0024640552066436195
@@ -3565,7 +3565,7 @@
             "label": "crimson nylium",
             "tag": "crimson_nylium",
             "URL": "",
-            "cluster": "Dirts",
+            "cluster": "Farms",
             "x": -970.6710205078125,
             "y": 321.26611328125,
             "score": 0.0
@@ -3755,7 +3755,7 @@
             "label": "granite",
             "tag": "granite",
             "URL": "",
-            "cluster": "Stones",
+            "cluster": "Farms",
             "x": -445.4507751464844,
             "y": -399.0501403808594,
             "score": 0.005749462148835111
@@ -3845,7 +3845,7 @@
             "label": "cyan dye",
             "tag": "cyan_dye",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 317.2577819824219,
             "y": -530.1220703125,
             "score": 0.009034869091026604
@@ -3855,7 +3855,7 @@
             "label": "green dye",
             "tag": "green_dye",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 453.3659362792969,
             "y": -405.9405822753906,
             "score": 0.013962979504313841
@@ -3935,7 +3935,7 @@
             "label": "dark oak leaves",
             "tag": "dark_oak_leaves",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": -185.9810333251953,
             "y": -975.2996215820312,
             "score": 0.0
@@ -3945,7 +3945,7 @@
             "label": "dark oak log",
             "tag": "dark_oak_log",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": 192.98265075683594,
             "y": 674.98681640625,
             "score": 0.001642703471095746
@@ -4455,7 +4455,7 @@
             "label": "light blue dye",
             "tag": "light_blue_dye",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 168.78224182128906,
             "y": -342.0022888183594,
             "score": 0.009856220826574478
@@ -4665,7 +4665,7 @@
             "label": "spider eye",
             "tag": "spider_eye",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": 691.2074584960938,
             "y": 383.72784423828125,
             "score": 0.000821351735547873
@@ -4925,7 +4925,7 @@
             "label": "red sand",
             "tag": "red_sand",
             "URL": "",
-            "cluster": "Building Blocks",
+            "cluster": "Farms",
             "x": -159.50323486328125,
             "y": -424.1562805175781,
             "score": 0.004928110413287239
@@ -5035,7 +5035,7 @@
             "label": "glow ink sac",
             "tag": "glow_ink_sac",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 314.1716003417969,
             "y": -97.01378631591797,
             "score": 0.000821351735547873
@@ -5125,7 +5125,7 @@
             "label": "grass block",
             "tag": "grass_block",
             "URL": "",
-            "cluster": "Dirts",
+            "cluster": "Farms",
             "x": 615.9786987304688,
             "y": 663.3355102539062,
             "score": 0.000821351735547873
@@ -5135,7 +5135,7 @@
             "label": "gravel",
             "tag": "gravel",
             "URL": "",
-            "cluster": "Stones",
+            "cluster": "Farms",
             "x": -943.8953857421875,
             "y": -386.4456787109375,
             "score": 0.0
@@ -5185,7 +5185,7 @@
             "label": "gray dye",
             "tag": "gray_dye",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 108.12710571289062,
             "y": -342.9896240234375,
             "score": 0.011498924297670222
@@ -5195,7 +5195,7 @@
             "label": "white dye",
             "tag": "white_dye",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 229.37588500976562,
             "y": -318.8357849121094,
             "score": 0.017248386446505334
@@ -5325,7 +5325,7 @@
             "label": "sea pickle",
             "tag": "sea_pickle",
             "URL": "",
-            "cluster": "Building Blocks",
+            "cluster": "Farms",
             "x": 426.22064208984375,
             "y": -352.9600524902344,
             "score": 0.001642703471095746
@@ -5435,7 +5435,7 @@
             "label": "honey",
             "tag": "honey",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": 625.8908081054688,
             "y": 488.8194885253906,
             "score": 0.0024640552066436195
@@ -5455,7 +5455,7 @@
             "label": "honey bottle",
             "tag": "honey_bottle",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": 713.0125732421875,
             "y": 409.453125,
             "score": 0.0024640552066436195
@@ -5465,7 +5465,7 @@
             "label": "honey block",
             "tag": "honey_block",
             "URL": "",
-            "cluster": "Building Blocks",
+            "cluster": "Farms",
             "x": 677.06591796875,
             "y": 469.4873046875,
             "score": 0.001642703471095746
@@ -5555,7 +5555,7 @@
             "label": "ice",
             "tag": "ice",
             "URL": "",
-            "cluster": "Building Blocks",
+            "cluster": "Farms",
             "x": 290.6761779785156,
             "y": 183.06341552734375,
             "score": 0.000821351735547873
@@ -5865,7 +5865,7 @@
             "label": "jungle leaves",
             "tag": "jungle_leaves",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": 313.92999267578125,
             "y": 970.4650268554688,
             "score": 0.0
@@ -5875,7 +5875,7 @@
             "label": "jungle log",
             "tag": "jungle_log",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": 83.30036926269531,
             "y": 748.9775390625,
             "score": 0.001642703471095746
@@ -5905,7 +5905,7 @@
             "label": "kelp",
             "tag": "kelp",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": -1005.4813232421875,
             "y": 144.51722717285156,
             "score": 0.0
@@ -6215,7 +6215,7 @@
             "label": "light gray dye",
             "tag": "light_gray_dye",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 185.47183227539062,
             "y": -377.1678466796875,
             "score": 0.013962979504313841
@@ -6355,7 +6355,7 @@
             "label": "lime dye",
             "tag": "lime_dye",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 323.0325622558594,
             "y": -323.03338623046875,
             "score": 0.01642703471095746
@@ -6515,7 +6515,7 @@
             "label": "magenta dye",
             "tag": "magenta_dye",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 347.1662292480469,
             "y": -359.0733337402344,
             "score": 0.013962979504313841
@@ -6525,7 +6525,7 @@
             "label": "red dye",
             "tag": "red_dye",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 398.45166015625,
             "y": -304.44940185546875,
             "score": 0.014784331239861713
@@ -6535,7 +6535,7 @@
             "label": "pink dye",
             "tag": "pink_dye",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 376.7392578125,
             "y": -379.8447570800781,
             "score": 0.012320276033218095
@@ -6555,7 +6555,7 @@
             "label": "purple dye",
             "tag": "purple_dye",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 332.97467041015625,
             "y": -394.0454406738281,
             "score": 0.011498924297670222
@@ -6655,7 +6655,7 @@
             "label": "mangrove leaves",
             "tag": "mangrove_leaves",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": -918.9127197265625,
             "y": -445.09466552734375,
             "score": 0.0
@@ -6665,7 +6665,7 @@
             "label": "mangrove log",
             "tag": "mangrove_log",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": 204.98751831054688,
             "y": 721.716064453125,
             "score": 0.001642703471095746
@@ -7055,7 +7055,7 @@
             "label": "stone bricks",
             "tag": "stone_bricks",
             "URL": "",
-            "cluster": "Stones",
+            "cluster": "Farms",
             "x": -655.9269409179688,
             "y": -415.43524169921875,
             "score": 0.001642703471095746
@@ -7115,7 +7115,7 @@
             "label": "mud",
             "tag": "mud",
             "URL": "",
-            "cluster": "Dirts",
+            "cluster": "Farms",
             "x": 575.3639526367188,
             "y": 583.8690795898438,
             "score": 0.001642703471095746
@@ -7125,7 +7125,7 @@
             "label": "red mushroom",
             "tag": "red_mushroom",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 807.2871704101562,
             "y": 286.7795715332031,
             "score": 0.001642703471095746
@@ -7165,7 +7165,7 @@
             "label": "mycelium",
             "tag": "mycelium",
             "URL": "",
-            "cluster": "Dirts",
+            "cluster": "Farms",
             "x": 897.8980712890625,
             "y": -434.9985656738281,
             "score": 0.0
@@ -7215,7 +7215,7 @@
             "label": "netherrack",
             "tag": "netherrack",
             "URL": "",
-            "cluster": "Stones",
+            "cluster": "Farms",
             "x": -550.3221435546875,
             "y": -298.3565368652344,
             "score": 0.004106758677739365
@@ -7275,7 +7275,7 @@
             "label": "nether wart block",
             "tag": "nether_wart_block",
             "URL": "",
-            "cluster": "Building Blocks",
+            "cluster": "Farms",
             "x": -739.9822998046875,
             "y": -561.0451049804688,
             "score": 0.001642703471095746
@@ -7285,7 +7285,7 @@
             "label": "nether wart",
             "tag": "nether_wart",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": -724.8974609375,
             "y": -556.3755493164062,
             "score": 0.0024640552066436195
@@ -7375,7 +7375,7 @@
             "label": "oak leaves",
             "tag": "oak_leaves",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": -942.2536010742188,
             "y": 402.5240173339844,
             "score": 0.0
@@ -7385,7 +7385,7 @@
             "label": "oak log",
             "tag": "oak_log",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": 74.8016586303711,
             "y": 666.6182250976562,
             "score": 0.001642703471095746
@@ -7405,7 +7405,7 @@
             "label": "obsidian",
             "tag": "obsidian",
             "URL": "",
-            "cluster": "Building Blocks",
+            "cluster": "Farms",
             "x": -194.0624237060547,
             "y": -547.1856079101562,
             "score": 0.0024640552066436195
@@ -7415,7 +7415,7 @@
             "label": "ochre froglight",
             "tag": "ochre_froglight",
             "URL": "",
-            "cluster": "Building Blocks",
+            "cluster": "Farms",
             "x": -989.4629516601562,
             "y": 250.5048828125,
             "score": 0.0
@@ -7485,7 +7485,7 @@
             "label": "orange dye",
             "tag": "orange_dye",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 376.5719909667969,
             "y": -542.5733032226562,
             "score": 0.01067757256212235
@@ -7495,7 +7495,7 @@
             "label": "yellow dye",
             "tag": "yellow_dye",
             "URL": "",
-            "cluster": "Coloured",
+            "cluster": "Farms",
             "x": 340.3057861328125,
             "y": -603.0824584960938,
             "score": 0.01067757256212235
@@ -7575,7 +7575,7 @@
             "label": "sugar cane",
             "tag": "sugar_cane",
             "URL": "",
-            "cluster": "Materials",
+            "cluster": "Farms",
             "x": 19.147733688354492,
             "y": 443.2024230957031,
             "score": 0.000821351735547873
@@ -7615,7 +7615,7 @@
             "label": "pearlescent froglight",
             "tag": "pearlescent_froglight",
             "URL": "",
-            "cluster": "Building Blocks",
+            "cluster": "Farms",
             "x": -1008.6128540039062,
             "y": 100.41451263427734,
             "score": 0.0
@@ -7805,7 +7805,7 @@
             "label": "podzol",
             "tag": "podzol",
             "URL": "",
-            "cluster": "Dirts",
+            "cluster": "Farms",
             "x": 950.7777709960938,
             "y": -287.85467529296875,
             "score": 0.0
@@ -7935,7 +7935,7 @@
             "label": "pufferfish",
             "tag": "pufferfish",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": -962.0584716796875,
             "y": -333.5939025878906,
             "score": 0.0
@@ -7965,7 +7965,7 @@
             "label": "pumpkin",
             "tag": "pumpkin",
             "URL": "",
-            "cluster": "Building Blocks",
+            "cluster": "Farms",
             "x": 641.7324829101562,
             "y": 253.58251953125,
             "score": 0.003285406942191492
@@ -8085,7 +8085,7 @@
             "label": "soul sand",
             "tag": "soul_sand",
             "URL": "",
-            "cluster": "Building Blocks",
+            "cluster": "Farms",
             "x": -349.0881042480469,
             "y": -486.50238037109375,
             "score": 0.0024640552066436195
@@ -8125,7 +8125,7 @@
             "label": "sturdy sheet",
             "tag": "sturdy_sheet",
             "URL": "",
-            "cluster": "Create Materials",
+            "cluster": "Farms",
             "x": -442.3528137207031,
             "y": 563.848388671875,
             "score": 0.003285406942191492
@@ -8305,7 +8305,7 @@
             "label": "red sandstone",
             "tag": "red_sandstone",
             "URL": "",
-            "cluster": "Building Blocks",
+            "cluster": "Farms",
             "x": -180.15174865722656,
             "y": -457.0745849609375,
             "score": 0.000821351735547873
@@ -8565,7 +8565,7 @@
             "label": "sand",
             "tag": "sand",
             "URL": "",
-            "cluster": "Building Blocks",
+            "cluster": "Farms",
             "x": 927.37109375,
             "y": -348.97381591796875,
             "score": 0.000821351735547873
@@ -8625,7 +8625,7 @@
             "label": "scoria",
             "tag": "scoria",
             "URL": "",
-            "cluster": "Bricks",
+            "cluster": "Farms",
             "x": -313.897705078125,
             "y": -614.8499145507812,
             "score": 0.003285406942191492
@@ -8745,7 +8745,7 @@
             "label": "shroomlight",
             "tag": "shroomlight",
             "URL": "",
-            "cluster": "Building Blocks",
+            "cluster": "Farms",
             "x": -168.1722869873047,
             "y": -977.2971801757812,
             "score": 0.0
@@ -8995,7 +8995,7 @@
             "label": "spruce leaves",
             "tag": "spruce_leaves",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": -975.7054443359375,
             "y": -283.7904968261719,
             "score": 0.0
@@ -9005,7 +9005,7 @@
             "label": "spruce log",
             "tag": "spruce_log",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": 136.96836853027344,
             "y": 782.1221313476562,
             "score": 0.001642703471095746
@@ -9835,7 +9835,7 @@
             "label": "crimson hyphae",
             "tag": "crimson_hyphae",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": 101.49452209472656,
             "y": 785.55908203125,
             "score": 0.001642703471095746
@@ -9895,7 +9895,7 @@
             "label": "warped hyphae",
             "tag": "warped_hyphae",
             "URL": "",
-            "cluster": "Wood",
+            "cluster": "Farms",
             "x": 159.0966339111328,
             "y": 707.215576171875,
             "score": 0.000821351735547873
@@ -9915,7 +9915,7 @@
             "label": "tropical fish",
             "tag": "tropical_fish",
             "URL": "",
-            "cluster": "Food",
+            "cluster": "Farms",
             "x": 416.93865966796875,
             "y": 927.6891479492188,
             "score": 0.0
@@ -10045,7 +10045,7 @@
             "label": "verdant froglight",
             "tag": "verdant_froglight",
             "URL": "",
-            "cluster": "Building Blocks",
+            "cluster": "Farms",
             "x": -37.68080139160156,
             "y": -1004.954345703125,
             "score": 0.0
@@ -10085,7 +10085,7 @@
             "label": "warped nylium",
             "tag": "warped_nylium",
             "URL": "",
-            "cluster": "Dirts",
+            "cluster": "Farms",
             "x": 908.5125732421875,
             "y": -413.3810119628906,
             "score": 0.0
@@ -10095,7 +10095,7 @@
             "label": "warped wart block",
             "tag": "warped_wart_block",
             "URL": "",
-            "cluster": "Building Blocks",
+            "cluster": "Farms",
             "x": 889.8710327148438,
             "y": -458.5310974121094,
             "score": 0.0
@@ -20386,132 +20386,137 @@
     "clusters": [
         {
             "key": "Wood",
-            "color": "#ff6df1",
+            "color": "#b3ddd1",
             "clusterLabel": "Wood"
         },
         {
+            "key": "Farms",
+            "color": "#9e9e9e",
+            "clusterLabel": "Farms"
+        },
+        {
             "key": "Glass",
-            "color": "#edf98f",
+            "color": "#ddbd6d",
             "clusterLabel": "Glass"
         },
         {
             "key": "Redstone",
-            "color": "#a750f2",
+            "color": "#d591a7",
             "clusterLabel": "Redstone"
         },
         {
-            "key": "Materials",
-            "color": "#4ccaa7",
-            "clusterLabel": "Materials"
-        },
-        {
             "key": "Create",
-            "color": "#8d71a8",
+            "color": "#8b7cca",
             "clusterLabel": "Create"
         },
         {
-            "key": "Create Materials",
-            "color": "#5fbce3",
-            "clusterLabel": "Create Materials"
-        },
-        {
             "key": "Create Addition",
-            "color": "#b57a69",
+            "color": "#e29ca3",
             "clusterLabel": "Create Addition"
         },
         {
-            "key": "Stones",
-            "color": "#aca27e",
-            "clusterLabel": "Stones"
+            "key": "Create Materials",
+            "color": "#b168ac",
+            "clusterLabel": "Create Materials"
+        },
+        {
+            "key": "Materials",
+            "color": "#74c87d",
+            "clusterLabel": "Materials"
         },
         {
             "key": "Create Deco",
-            "color": "#408a3b",
+            "color": "#7cb1d7",
             "clusterLabel": "Create Deco"
         },
         {
             "key": "Functional Blocks",
-            "color": "#961fc8",
+            "color": "#bd928a",
             "clusterLabel": "Functional Blocks"
         },
         {
             "key": "Food",
-            "color": "#19c35f",
+            "color": "#acecbc",
             "clusterLabel": "Food"
         },
         {
+            "key": "Stones",
+            "color": "#607897",
+            "clusterLabel": "Stones"
+        },
+        {
             "key": "Wool",
-            "color": "#31594a",
+            "color": "#6980d1",
             "clusterLabel": "Wool"
         },
         {
             "key": "Create Functional Items",
-            "color": "#e1aad6",
+            "color": "#d398ac",
             "clusterLabel": "Create Functional Items"
         },
         {
             "key": "Building Blocks",
-            "color": "#a63a36",
+            "color": "#d67dc9",
             "clusterLabel": "Building Blocks"
         },
         {
             "key": "Farmer's Delight",
-            "color": "#0316f3",
+            "color": "#8b8b61",
             "clusterLabel": "Farmer's Delight"
         },
         {
             "key": "Flowers",
-            "color": "#8c42ed",
+            "color": "#74d9ca",
             "clusterLabel": "Flowers"
         },
         {
             "key": "Exposure",
-            "color": "#f18b03",
+            "color": "#83966e",
             "clusterLabel": "Exposure"
         },
         {
             "key": "Coloured",
-            "color": "#6f007f",
+            "color": "#a09dea",
             "clusterLabel": "Coloured"
         },
         {
             "key": "Bricks",
-            "color": "#4dd42a",
+            "color": "#b787c4",
             "clusterLabel": "Bricks"
         },
         {
             "key": "Functional Items",
-            "color": "#c0e3c3",
+            "color": "#d06d86",
             "clusterLabel": "Functional Items"
         },
         {
             "key": "Dirts",
-            "color": "#7650f1",
+            "color": "#e573b7",
             "clusterLabel": "Dirts"
         },
         {
             "key": "Copycats",
-            "color": "#a4bc96",
+            "color": "#88e16d",
             "clusterLabel": "Copycats"
         },
         {
             "key": "Tools",
-            "color": "#b57733",
+            "color": "#76e389",
             "clusterLabel": "Tools"
         },
         {
             "key": "Tracks",
-            "color": "#91f2bd",
+            "color": "#b5b0a6",
             "clusterLabel": "Tracks"
         },
         {
             "key": "Locometal",
-            "color": "#4ccc43",
+            "color": "#7a6072",
             "clusterLabel": "Locometal"
         },
         {
             "key": "Enchantment Industry",
-            "color": "#e79831",
+            "color": "#90d5a3",
             "clusterLabel": "Enchantment Industry"
         }
     ],
